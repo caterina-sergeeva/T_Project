@@ -1,4 +1,7 @@
 import sys
+def my_function():
+    pass
+
 
 from PyQt5.QtWidgets import QApplication, QWidget
 
